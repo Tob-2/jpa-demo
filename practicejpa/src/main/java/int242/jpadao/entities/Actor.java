@@ -55,4 +55,13 @@ public class Actor {
         this.lastUpdate = lastUpdate;
     }
 
+    public String toString() {
+        return "Actor: "+ firstName + " " + lastName ;
+//        return "Actor { " +
+//                "id=" + id +
+//                ", firstName='" + firstName + '\'' +
+//                ", lastName='" + lastName + '\'' +
+//                " }";
+    };
+
 }
