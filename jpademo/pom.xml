@@ -44,6 +44,10 @@
             <version>9.4.0</version>
         </dependency>
     </dependencies>
+<!-- project structure module +jpa +decriptor /persistense.xml
+ลากmetaเข้าresourse -->
+
+         
 
 
 
